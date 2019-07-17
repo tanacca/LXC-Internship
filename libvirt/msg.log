@@ -1,0 +1,21 @@
+INFO:root:URI: qemu:///system
+INFO:root:DOM_NAME: kali
+INFO:root:kali initial state 1, reason 1
+INFO:root:URI: qemu:///system
+INFO:root:DOM_NAME: kali
+INFO:root:kali initial state 1, reason 1
+INFO:root:URI: qemu:///system
+INFO:root:VM Name: kali
+INFO:root:kali initial state 1, reason 1
+INFO:root:URI: qemu:///system
+INFO:root:VM Name: kali
+INFO:root:kali initial state 1, reason 1
+INFO:root:URI: qemu:///system
+INFO:root:VM Name: kali
+INFO:root:kali initial state 1, reason 1
+INFO:root:URI: qemu:///system
+INFO:root:VM Name: kali
+INFO:root:kali initial state 1, reason 1
+INFO:root:URI: qemu+ssh://root@10.0.0.160:22/system?socket=/var/run/libvirt/libvirt-sock
+INFO:root:VM Name: kali
+INFO:root:kali initial state 1, reason 1
